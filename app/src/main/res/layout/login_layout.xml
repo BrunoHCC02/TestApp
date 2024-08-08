@@ -11,10 +11,10 @@
     <ImageView
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:src="@drawable/imagem"
-        android:scaleType="centerCrop"
-        android:contentDescription="Rocambole doce"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="15dp"/>
+        android:layout_marginTop="15dp"
+        android:contentDescription="rocambole doce"
+        android:scaleType="centerCrop"
+        android:src="@drawable/imagem" />
 
 </LinearLayout>
